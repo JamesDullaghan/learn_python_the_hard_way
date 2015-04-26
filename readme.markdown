@@ -1,0 +1,9 @@
+# Learn Python the Hard Way Excercises
+
+Getting comfortable with the basics of python
+
+#### Comparisons to ruby
+
+The explicit use of parens when calling functions/function calls in python 3 is nice (Never liked missing parens in method calls/definitions)
+
+String interpolation is different.
