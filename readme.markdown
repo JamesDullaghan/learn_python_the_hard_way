@@ -1,6 +1,6 @@
 # Learn Python the Hard Way Excercises
 
-Getting comfortable with the basics of python
+Getting comfortable with the basics & syntax of python through repetition
 
 #### Comparisons to ruby
 
